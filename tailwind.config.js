@@ -9,6 +9,9 @@ export default {
         background: "hsl(var(--background))",
         elements: "hsl(var(--elements))",
       },
+      fontFamily: {
+        nunito: ["nunito", "sans-serif"],
+      },
     },
   },
   plugins: [],
